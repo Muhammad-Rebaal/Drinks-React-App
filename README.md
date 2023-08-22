@@ -5,10 +5,10 @@ Welcome to the Drinks App! This is a simple React application for browsing and d
 
 ## Table of Contents
 
-- [Features](#features)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
+- Features
+- Usage
+- Technologies Used
+- Contributing
 
 
 ## Features
