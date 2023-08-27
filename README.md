@@ -18,3 +18,4 @@ Welcome to the Drinks App! This is a simple React application for browsing and d
 - View detailed instructions and ingredients for each recipe.
 - Save your favorite recipes for quick access.
 - Responsive design for optimal use on various devices.
+## Live link: https://gorgeous-bombolone-7c98c4.netlify.app/
